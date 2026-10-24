@@ -19,7 +19,8 @@ Red and infrared light and a photodetector form a photoplethysmography system, u
 | Material | File |
 | --- | --- |
 | Portfolio | [Research portfolio](portfolio.docx) |
-| Poster | [A4 poster](poster-a4.pdf) |
+| Full-size poster | [Full-size poster](poster-fullsize.pdf) |
+| A4 poster | [A4 poster](poster-a4.pdf) |
 | Prototype design | [Design illustrations and model availability](DESIGN.md) |
 
 ## Research context
