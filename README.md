@@ -36,7 +36,7 @@ The device is an educational prototype and has not been established as a clinica
 - Built for under EGP 200, compared with the EGP 500-2,500 commercial range reported in the project summary.
 - Final grade: A.
 
-The results and distinctions above are reported in the project portfolio and the application CV.
+The results and distinctions above are reported in the project portfolio.
 
 ## Attribution
 
